@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+service FileService {
+    // Servicio para solicitar la lista de archivos
+    rpc ListFiles (Empty) returns (FileListResponse) {}
+}
+
+message Empty {}
+
+message FileListResponse {
+    repeated string files = 1;  // Lista de archivos disponibles
+}

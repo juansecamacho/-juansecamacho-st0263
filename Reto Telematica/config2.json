@@ -1,0 +1,17 @@
+{
+    "node": {
+      "ip": "127.0.0.1",
+      "port": 5001,
+      "grpc_port": 6001,
+      "bootstrap_peers": ["127.0.0.1:5000"]
+    },
+    "resources": {
+      "shared_directory": "./archivo2"
+    },
+    "communication": {
+      "rest_api": {
+        "enabled": true,
+        "port": 8001
+      }
+    }
+  }
