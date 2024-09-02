@@ -69,7 +69,7 @@ Estos son los aspectos principales del desarrollo del proyecto y la implementaci
 ## descripción y como se configura los parámetros del proyecto (ej: ip, puertos, conexión a bases de datos, variables de ambente, parámetros, etc)
 La mayoria de las cosas para el proyecto vienen configuradas con el archivo .json, donde esta toda la informacion de cada uno de los nodos
 ## opcionalmente - si quiere mostrar resultados o pantallazos 
-LINK DEL VIDEO: 
+LINK DEL VIDEO: https://eafit-my.sharepoint.com/:v:/g/personal/jscamachop_eafit_edu_co/ET5lJMFvydlGsZaKAsOzWH4Ba0JpuvukgfJB5KVe41vPCA?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view
 # IP o nombres de dominio en nube o en la máquina servidor.
 Esto lo tendre mas adelante
 ## como se lanza el servidor.
